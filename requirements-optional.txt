@@ -8,5 +8,5 @@ BoltzTraP2==22.3.2
 f90nml==1.4.3
 # hiphive==0.6
 seekpath==2.0.1
-jarvis-tools==2022.9.16
+jarvis-tools==2023.1.8
 galore==0.7.0
